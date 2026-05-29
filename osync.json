@@ -1,5 +1,5 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Obsidian vault synchronization tool - sync vaults across devices via a self-hosted server",
     "homepage": "https://github.com/AlexCas/cerio-obsidian-sync",
     "license": "MIT",
