@@ -1,12 +1,12 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Obsidian vault synchronization tool - sync vaults across devices via a self-hosted server",
   "homepage": "https://github.com/AlexCas/cerio-obsidian-sync",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/AlexCas/cerio-obsidian-sync/releases/download/v0.2.4/osync_0.2.4_windows_x86_64.zip",
-      "hash": "2452db1ed716974fbd8bd0e1c102c3b0195a9f88486ae3ac673dd31428ff94ca",
+      "url": "https://github.com/AlexCas/cerio-obsidian-sync/releases/download/v0.2.5/osync_0.2.5_windows_x86_64.zip",
+      "hash": "48a3e05a3d18f4af236e79f6c50b3ea4a700b7c29b1afbaca4662c43544a948b",
       "bin": [
         [
           "osync.exe",
@@ -15,8 +15,8 @@
       ]
     },
     "arm64": {
-      "url": "https://github.com/AlexCas/cerio-obsidian-sync/releases/download/v0.2.4/osync_0.2.4_windows_aarch64.zip",
-      "hash": "122e222e9c439e89a183dbe3aae1e22f1d02d321a4356a7d4710e5229c95ba98",
+      "url": "https://github.com/AlexCas/cerio-obsidian-sync/releases/download/v0.2.5/osync_0.2.5_windows_aarch64.zip",
+      "hash": "d61dcbccfc573dfb4806f63a1d1a307680fee1f5853cf3e77bdb867bc242a5f7",
       "bin": [
         [
           "osync.exe",
